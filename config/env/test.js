@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://localhost/testheroku-test',
+	db: 'mongodb://testherokuc9.herokuapp.com/testheroku-test',
 	port: 3001,
 	app: {
 		title: 'testHeroku - Test Environment'
